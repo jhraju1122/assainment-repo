@@ -1,0 +1,22 @@
+ 
+ .jh{
+   font-family: 'Abril Fatface', cursive;
+font-size: 50px;
+}
+.orange{
+   color: orange;
+}
+
+section{
+   display: flex;
+}
+.half{
+   width: 50%;
+}
+.half-img{
+   width: 80%;
+
+}
+.half2{
+   width: 900px;
+}
